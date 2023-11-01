@@ -19,3 +19,19 @@ body {
 main {
   flex: 1 0 auto;
 }
+
+.header-splash {
+  padding: 60px;
+  padding-left: 20%;
+  background: white;
+  color: black;
+  font-size: 30px;
+}
+
+.subheader-splash {
+  padding: 45px;
+  padding-left: 10%;
+  background: white;
+  color: black;
+  font-size: 30px;
+}
