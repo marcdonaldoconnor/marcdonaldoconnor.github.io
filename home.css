@@ -20,6 +20,12 @@ main {
   flex: 1 0 auto;
 }
 
+.splash {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 .header-splash {
   padding: 60px;
   padding-left: 20%;
