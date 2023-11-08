@@ -27,17 +27,19 @@ main {
 }
 
 .header-splash {
-  padding: 60px;
-  padding-left: 20%;
-  background: white;
   color: black;
   font-size: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .subheader-splash {
-  padding: 45px;
-  padding-left: 10%;
-  background: white;
   color: black;
   font-size: 30px;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
