@@ -27,8 +27,9 @@ main {
 }
 
 .header-splash {
+  font-family: DejaVu Sans Mono, monospace;
   color: black;
-  font-size: 30px;
+  font-size: 50px;
   position: absolute;
   top: 50%;
   left: 50%;
