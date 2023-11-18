@@ -26,6 +26,12 @@ main {
   color: white;
 }
 
+/* This makes it so that the background image on the homepage doesn't get in the way of text selection.*/
+.image-splash {
+  pointer-events: none;
+  user-select: none;
+}
+
 .header-splash {
   font-family: DejaVu Sans Mono, monospace;
   color: black;
