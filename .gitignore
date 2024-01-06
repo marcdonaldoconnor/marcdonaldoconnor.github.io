@@ -1,0 +1,2 @@
+# ignore the _site directory, where jekyll builds the site for preview locally
+_site
