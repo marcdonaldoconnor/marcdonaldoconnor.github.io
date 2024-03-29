@@ -22,7 +22,8 @@ main {
 .splash-home {
   position: relative;
   text-align: center;
-  color: white;
+  color: black;
+  overflow: hidden;
 }
 
 /* This makes it so that the background image on the homepage doesn't get in the way of text selection.*/
@@ -32,9 +33,10 @@ main {
 }
 
 .header-splash-home, .subheader-splash-home {
-  color: black;
+  color: whitesmoke;
   position: absolute;
   transform: translate(-50%, -50%);
+  mix-blend-mode: difference;
 }
 
 .header-splash-home {
