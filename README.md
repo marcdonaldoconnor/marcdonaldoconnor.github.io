@@ -6,7 +6,7 @@ This is my personal portfolio, hosted on GitHub Pages.
 
 This website uses Javascript to load the headers and footers across all pages. If you have Javascript disabled (which is fine!) then the header/footer won't work. I am working on including a sitemap so you can move around the website without Javascript. Apologies for any inconvinience. 
 
-Please keep in mind that this is hosted using Github Pages. I don't know if Github collects data/analytics about users that visit their websites. I'm going to hope they don't, but if you are super paranoid, you can stop using this website if you haven't already. 
+Please keep in mind that this is hosted using Github Pages. I don't know if Github collects data/analytics about users that visit their websites. I'm going to hope they don't, but if you are super paranoid, stop using this website if you haven't already. 
 
 # Credits
 
