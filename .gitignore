@@ -1,0 +1,2 @@
+# I use Jekyll to preview my site locally, so I want to exclude the files it creates, as they are useless remotely.
+_site
